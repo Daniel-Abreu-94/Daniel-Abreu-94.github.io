@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(41, 223, 102);
+    margin-right: 200px;
+}
+h1{
+border-left: 50px;
+}
+p{
+    font-size: large;
+padding-bottom: 15%;
+padding-top: 12%;
+}
+.foto{
+    width: 200px;
+    border-radius: 100%;
+    overflow: auto;
+    float: left;
+}
+
+.icono img{
+           width: 200px;
+           overflow: auto;
+           float: left;
+        margin left: 50%;}
+        tr td{
+
+            border: 3px solid black;
+        
+        }
+       h2{
+
+       }
